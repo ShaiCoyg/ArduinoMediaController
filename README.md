@@ -1,7 +1,7 @@
 # ArduinoMediaController
 an arduino project in c and py for media control.
 project done by shai ely and uri koren from sapir academic college.
-
+https://user-images.githubusercontent.com/55280978/137301444-8ed637ee-f7ff-42fc-adc5-d74d866ff1f7.PNG
 what you need for this project:
 arduino
 2 ultrasonic sensors
