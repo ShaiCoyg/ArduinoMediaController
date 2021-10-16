@@ -1,16 +1,21 @@
 # ArduinoMediaController  
 ![Capture](https://user-images.githubusercontent.com/55280978/137301444-8ed637ee-f7ff-42fc-adc5-d74d866ff1f7.PNG)
 <br/><br/>
-<small>an arduino project in cpp and python for media control.  
-project done by shai ely and uri koren from sapir academic college.</small>  
+<b>an arduino project in cpp and python for media control.  
+project done by shai ely and uri koren from sapir academic college.</b>  
 
 
 <h2>what you need for this project:</h2>  
 arduino uno   
+<br/>
 2 ultrasonic sensors   
+<br/>
 1 light dependent resistor  
+<br/>
 some cables  
+<br/>
 matrix  
+<br/>
 some tape  
 
 
