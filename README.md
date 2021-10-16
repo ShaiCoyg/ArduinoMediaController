@@ -13,15 +13,16 @@ some tape
 
 
 
-<h2>project gestures:</h2>
-1-10 cm from the ultrasonic: right sensor run media forward, left backward.    
-10-25 from the ultrasonic: right sensor turn volume up, left sensor turn volume down.   
-both hands together 30-50 cm from both ultrasonics: pause or start a media.   
-both hands together 5-20 cm from both ultrasonics for 3 seconds: exit the media.  
+<h2>project gestures:</h2>   
+1-10 cm from the ultrasonic: right sensor run media forward, left backward.       
+10-25 from the ultrasonic: right sensor turn volume up, left sensor turn volume down.     
+both hands together 30-50 cm from both ultrasonics: pause or start a media.        
+both hands together 5-20 cm from both ultrasonics for 3 seconds: exit the media.     
 changes screen brightness based on the light in the room - lowlight = low brightness, highlight = high brightness.  
+   
 
-
-<h2>Libraries in used:</h2>
-serial   
-pyautogui  
-screen_brightness_control   
+<h2>Libraries in used:</h2>   
+serial      
+pyautogui     
+screen_brightness_control       
+  
