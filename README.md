@@ -14,7 +14,7 @@ some tape
 
 
 <h2>project gestures:</h2>   
-1-10 cm from the ultrasonic: right sensor run media forward, left backward.       
+1-10 cm from the ultrasonic: right sensor run media forward, left backward.     
 10-25 from the ultrasonic: right sensor turn volume up, left sensor turn volume down.     
 both hands together 30-50 cm from both ultrasonics: pause or start a media.        
 both hands together 5-20 cm from both ultrasonics for 3 seconds: exit the media.     
