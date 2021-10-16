@@ -22,7 +22,7 @@ changes screen brightness based on the light in the room - lowlight = low bright
    
 
 <h2>Libraries in used:</h2>   
-serial      
-pyautogui     
-screen_brightness_control       
+serial  
+pyautogui  
+screen_brightness_control  
   
