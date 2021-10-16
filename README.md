@@ -1,5 +1,4 @@
-# ArduinoMediaController
-<br/><br/>
+# ArduinoMediaController  
 an arduino project in c and py for media control.
 <br/><br/>
 project done by shai ely and uri koren from sapir academic college.
