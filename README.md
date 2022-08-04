@@ -12,17 +12,6 @@ project done by shai ely and uri koren from sapir academic college.</b>
 - matrix.
 - some cables.
 - some tape.
-<h2>what you need for this project:</h2>  
-- First item.
-- Second item.
-- Arduino Uno.
-- 2 Ultrasonic sensors.
-- 1 light dependent resistor.
-- matrix.
-- some cables.
-- some tape.
-
-
 
 
 
