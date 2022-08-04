@@ -7,15 +7,10 @@ project done by shai ely and uri koren from sapir academic college.</b>
 
 <h2>what you need for this project:</h2>  
 * arduino uno   
-<br/>
 * 2 ultrasonic sensors   
-<br/>
 * 1 light dependent resistor  
-<br/>
 * some cables  
-<br/>
 * matrix  
-<br/>
 * some tape  
 
 
