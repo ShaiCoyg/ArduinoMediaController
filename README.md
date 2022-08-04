@@ -4,6 +4,11 @@
 <b>an arduino project in cpp and python for media control.  
 project done by shai ely and uri koren from sapir academic college.</b>  
 
+
+<h2>what you need for this project:</h2>  
+<br/>
+
+
 - First item.
 - Second item.
 - Arduino Uno.
