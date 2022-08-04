@@ -4,7 +4,9 @@
 <b>an arduino project in cpp and python for media control.  
 project done by shai ely and uri koren from sapir academic college.</b>  
 
-
+- First item.
+- Second item.
+- 
 <h2>what you need for this project:</h2>  
 - arduino uno   
 - 2 ultrasonic sensors   
