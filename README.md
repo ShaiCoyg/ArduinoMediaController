@@ -19,22 +19,17 @@ project done by shai ely and uri koren from sapir academic college.</b>
 
 
 <h2>project gestures:</h2>
-1-10 cm from the ultrasonic: right sensor run media forward, left backward.  
-<br/>
-10-25 from the ultrasonic: right sensor turn volume up, left sensor turn volume down.  
-<br/>
-both hands together 30-50 cm from both ultrasonics: pause or start a media.  
-<br/>
-both hands together 5-20 cm from both ultrasonics for 3 seconds: exit the media.  
-<br/>
-changes screen brightness based on the light in the room - lowlight = low brightness, highlight = high brightness.  
-<br/>
-   
+- 1-10 cm from the ultrasonic: right sensor run media forward, left backward.  
+- 10-25 from the ultrasonic: right sensor turn volume up, left sensor turn volume down.  
+- both hands together 30-50 cm from both ultrasonics: pause or start a media.  
+- both hands together 5-20 cm from both ultrasonics for 3 seconds: exit the media.  
+- changes screen brightness based on the light in the room - lowlight = low brightness, highlight = high brightness.  
 
-<h2>Libraries in used:</h2>
-serial  
-<br/>
-pyautogui  
-<br/>
-screen_brightness_control  
-  
+
+
+
+<h2>Libraries in use:</h2>
+- Serial.
+- Pyautogui.
+- Screen_brightness_control.
+
