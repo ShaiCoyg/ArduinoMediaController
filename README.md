@@ -6,7 +6,7 @@ project done by shai ely and uri koren from sapir academic college.</b>
 
 
 <h2>what you need for this project:</h2>  
-arduino uno   
+*arduino uno   
 <br/>
 2 ultrasonic sensors   
 <br/>
